@@ -1,1 +1,3 @@
 # AI-Driven-Disinformation-Manipulating-Social-Media-Algorithms-to-Influence-Users
+
+As part of my graduate work in Intelligence Studies at Robert Morris University, I conducted an in-depth analysis of how TikTok's algorithm amplifies AI-generated disinformation. This research explored the rapid spread of deepfakes and manipulated content, its impact on public trust and democratic processes, and the insufficiency of current countermeasures. The project concluded with strategic recommendations focused on policy reform, AI detection tools, and digital literacy initiatives to combat evolving threats in the social media landscape.
